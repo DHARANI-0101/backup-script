@@ -1,4 +1,4 @@
-# 🗂️ Backup Script (Bash)
+# Backup Script 🗂️
 
-A shell script that automatically creates compressed `.tar.bz2` backups using `tar` and `bzip2`.  
-⚙️ Built to practice Linux archiving, loops, compression, and error-handling techniques.
+Automatically generates `.tar.bz2` compressed backups using Bash, `tar`, and `bzip2`.  
+Designed to practice Linux archiving, looping, compression, and error-handling techniques.
